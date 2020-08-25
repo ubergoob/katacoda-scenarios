@@ -1,5 +1,5 @@
 {
-  "title": "TAS 101 Workshop .9",
+  "title": "Tanzu Application Service Workshop .10",
   "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
   "time": "2 Hours",
@@ -10,16 +10,36 @@
         "text": "environment_setup.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Pushing to Cloud Foundry",
+        "text": "cloudfoundry.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
+        "title": "Binding Cloud Foundry Services",
+        "text": "services.md"
       },
       {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "Operating Your Application",
+        "text": "operating_your_application.md"
+      },
+      {
+        "title": "Monitoring Your Application",
+        "text": "monitoring_your_application.md"
+      },
+      {
+        "title": "Networking & Policies (Advanced)",
+        "text": "networking_and_policies.md"
+      },
+      {
+        "title": "Data Management (Advanced)",
+        "text": "data_management.md"
+      },
+      {
+        "title": "Security Documentation (Advanced)",
+        "text": "security.md"
+      },
+      {
+        "title": "Troubleshooting App Development & Health (Advanced)",
+        "text": "troubleshooting.md"
       }
     ],
     "intro": {
@@ -30,7 +50,7 @@
     }
   },
   "environment": {
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root/tas_workshop",
     "showide": true,
     "idePort": 23000,
     "uilayout": "terminal"
