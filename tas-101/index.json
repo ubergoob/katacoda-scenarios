@@ -1,13 +1,13 @@
 {
-  "title": "TAS 101 Workshop .2",
+  "title": "TAS 101 Workshop .3",
   "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
   "time": "2 Hours",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Environment Setup",
+        "text": "environment_setup.md"
       },
       {
         "title": "Step 2",
