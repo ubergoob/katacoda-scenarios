@@ -1,6 +1,4 @@
 
-# Environment Setup
-
 ## Account set up
 
 1. Access to Pivotal Web Services

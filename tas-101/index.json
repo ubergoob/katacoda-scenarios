@@ -1,5 +1,5 @@
 {
-  "title": "TAS 101 Workshop .7",
+  "title": "TAS 101 Workshop .8",
   "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
   "time": "2 Hours",
@@ -34,6 +34,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu1904"
+    "imageid": "ubuntu"
   }
 }
