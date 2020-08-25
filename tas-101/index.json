@@ -1,8 +1,8 @@
 {
-  "title": "TAS 101",
-  "description": "Quick TAS 101 cf cli and app deploy",
+  "title": "TAS 101 Workshop",
+  "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "2 Hours",
   "details": {
     "steps": [
       {
