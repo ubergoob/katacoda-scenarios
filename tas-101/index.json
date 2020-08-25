@@ -30,7 +30,9 @@
     }
   },
   "environment": {
-    "showide": true
+    "showide": true,
+    "uilayout": "terminal",
+    "idePort": 23000
   },
   "backend": {
     "imageid": "ubuntu1904"
