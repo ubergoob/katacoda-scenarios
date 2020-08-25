@@ -1,5 +1,5 @@
 {
-  "title": "TAS 101 Workshop",
+  "title": "TAS 101 Workshop .1",
   "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
   "time": "2 Hours",
@@ -30,7 +30,6 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
     "showide": true
   },
   "backend": {
