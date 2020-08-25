@@ -1,5 +1,5 @@
 {
-  "title": "TAS 101 Workshop .8",
+  "title": "TAS 101 Workshop .9",
   "description": "Tanzu Application Service Workshop",
   "difficulty": "Beginner",
   "time": "2 Hours",
@@ -30,7 +30,9 @@
     }
   },
   "environment": {
+    "uieditorpath": "/root/example",
     "showide": true,
+    "idePort": 23000,
     "uilayout": "terminal"
   },
   "backend": {
