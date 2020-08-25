@@ -1,7 +1,4 @@
----
-title : "Environment Setup"
-weight: 10
----
+
 # Environment Setup
 
 ## Account set up
