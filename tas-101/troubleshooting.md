@@ -1,7 +1,3 @@
----
-title : "Troubleshooting App Development & Health (Advanced)"
-weight: 90
----
 
 # Troubleshooting App Development & Health (Advanced)
 

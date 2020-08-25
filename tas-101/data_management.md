@@ -1,7 +1,3 @@
----
-title : "Data Management (Advanced)"
-weight: 70
----
 
 # Data Management (Advanced)
 

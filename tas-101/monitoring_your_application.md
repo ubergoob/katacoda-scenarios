@@ -1,7 +1,3 @@
----
-title : "Monitoring Your Application"
-weight: 50
----
 
 # Monitoring your application
 

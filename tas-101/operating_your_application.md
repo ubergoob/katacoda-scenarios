@@ -1,7 +1,3 @@
----
-title : "Operating Your Application"
-weight: 40
----
 
 # Operating your application
 

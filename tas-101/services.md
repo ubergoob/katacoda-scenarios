@@ -1,7 +1,3 @@
----
-title : "Binding Cloudfoundry Services"
-weight: 30
----
 
 # Binding Cloudfoundry Services
 

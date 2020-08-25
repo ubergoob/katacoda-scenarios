@@ -1,7 +1,3 @@
----
-title : "Networking & Policies (Advanced)"
-weight: 60
----
 
 # Networking & Policies (Advanced)
 ## Target the Environment

@@ -1,8 +1,3 @@
----
-title : "Environment Setup"
-weight: 10
----
-# Environment Setup
 
 ## Account set up
 
@@ -11,9 +6,9 @@ weight: 10
 ## Target the Environment
 If you haven’t already, download the latest 0.6 release of the Cloud Foundry CLI from https://github.com/cloudfoundry/cli/releases for your operating system and install it.
 
-{{< hint danger >}}
-NOTE: The Tanzu Application Service is not currently compatible with the latest 7.0 version of the cf cli. Please download the latest release of version 6.
-{{< /hint >}}
+***
+**NOTE: The Tanzu Application Service is not currently compatible with the latest 7.0 version of the cf cli. Please download the latest release of version 6.**
+***
 
 Login to Pivotal Cloud Foundry and follow the prompts
 

@@ -1,7 +1,4 @@
----
-title : "Security Documentation (Advanced)"
-weight: 80
----
+
 # Security Documentation
 
 PWS implements the following measures to mitigate against security threats:

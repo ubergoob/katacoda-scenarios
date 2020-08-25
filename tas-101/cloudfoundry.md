@@ -1,9 +1,3 @@
----
-title : "Pushing to Cloud Foundry"
-weight: 20
----
-
-# Pushing to Cloud Foundry
 
 # Push It!
 
